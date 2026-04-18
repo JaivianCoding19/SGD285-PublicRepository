@@ -1,0 +1,8 @@
+Model Information:
+* title:	Throwing Knife
+* source:	https://sketchfab.com/3d-models/throwing-knife-55de8c799cea4db2b74ae833be4aba03
+* author:	Orlando3dArt (https://sketchfab.com/Orlando3dArt)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
